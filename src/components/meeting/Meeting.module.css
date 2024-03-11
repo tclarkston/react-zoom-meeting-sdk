@@ -1,0 +1,31 @@
+#signalr {
+    -webkit-user-drag: element;
+    z-index: 10;
+    border:medium;
+    position:fixed;
+    background: white;
+}
+.speaker-bar-container__horizontal-view-wrap {
+    visibility: hidden;
+}
+.footer-button__button {
+    visibility: hidden;
+}
+.last-chat-message-tip__container {
+    visibility: hidden;
+}
+[aria-label="open the chat pane"] {
+    visibility: hidden;
+}
+[aria-label="open the participants list pane,[2] particpants"] {
+    visibility: hidden;
+}
+[aria-label="Reactions"] {
+    visibility: hidden;
+}
+[aria-label="Share Screen"] {
+    visibility: hidden;
+}
+[aria-label="Settings"] {
+    visibility: hidden;
+}
